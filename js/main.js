@@ -18,8 +18,8 @@ doc.ready(function() {
     ],
     smartBackspace: true, // Default value
     loop: true,
-    backDelay: 1000,
-    typeSpeed: 10
+    backDelay: 2000,
+    typeSpeed: 30
   });
 
   $('.navbar-nav').onePageNav({
