@@ -85,7 +85,7 @@ doc.ready(function() {
 
   $('.testimonial-container').owlCarousel({
     items: 1,
-    autoplay: true,
+    autoplay: false,
     rewind: true
   });
 });
