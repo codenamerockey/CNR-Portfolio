@@ -11,7 +11,7 @@ doc.ready(function() {
 
   var typed = new Typed('.mytext', {
     strings: [
-      'I am Rockey S.',
+      'I am Rockey Simmons.',
       'Full Stack Web Developer',
       'UX|UI Developer',
       'Web Content Creator'
